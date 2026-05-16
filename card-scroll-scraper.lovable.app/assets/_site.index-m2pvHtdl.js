@@ -1,1 +1,67 @@
-import{j as e,L as s}from"./index-D2KIWI07.js";import{a as r}from"./SiteLayout-BemxWIIb.js";function n(){return e.jsxs(e.Fragment,{children:[e.jsxs("section",{className:"relative overflow-hidden bg-gradient-hero",children:[e.jsx("div",{className:"absolute inset-0 opacity-30 [background-image:radial-gradient(circle_at_20%_20%,oklch(0.85_0.22_140/0.4),transparent_40%),radial-gradient(circle_at_80%_60%,oklch(0.6_0.2_230/0.4),transparent_40%)]"}),e.jsxs("div",{className:"relative max-w-5xl mx-auto px-6 pt-24 pb-28 text-center",children:[e.jsx("div",{className:"inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-white/70 backdrop-blur border border-white/80 text-xs font-semibold text-foreground/80 shadow-soft",children:"⭐ Более 1000 пользователей каждую неделю"}),e.jsxs("h1",{className:"mt-6 text-5xl sm:text-6xl md:text-7xl font-extrabold tracking-tight",children:["Парсер ",e.jsx("span",{className:"text-gradient-brand",children:"Яндекс Карт"}),e.jsx("br",{}),"в Excel за секунды 🚀"]}),e.jsx("p",{className:"mt-6 text-lg sm:text-xl text-muted-foreground max-w-2xl mx-auto",children:"Собирайте телефоны, сайты, соцсети, адреса и координаты организаций с Яндекс Карт прямо в XLSX-таблицу. Без капчи, без ручной работы. ⚡"}),e.jsxs("div",{className:"mt-10 flex flex-wrap items-center justify-center gap-4",children:[e.jsxs("a",{href:r,target:"_blank",rel:"noreferrer",className:"group inline-flex items-center gap-2 px-7 py-4 rounded-2xl bg-gradient-brand text-white text-base font-semibold shadow-glow hover:scale-[1.03] transition",children:["🚀 Попробовать бесплатно",e.jsx("span",{className:"transition group-hover:translate-x-1",children:"→"})]}),e.jsx(s,{to:"/pricing",className:"inline-flex items-center gap-2 px-7 py-4 rounded-2xl bg-white border border-border text-base font-semibold hover:bg-muted transition",children:"💎 Тарифы"})]}),e.jsxs("div",{className:"mt-10 flex flex-wrap items-center justify-center gap-6 text-sm text-muted-foreground",children:[e.jsx("span",{children:"✅ Без капчи"}),e.jsx("span",{children:"✅ В один клик"}),e.jsx("span",{children:"✅ Экспорт XLSX"}),e.jsx("span",{children:"✅ До 10 000 строк"})]})]})]}),e.jsx("section",{className:"max-w-6xl mx-auto px-6 -mt-12 relative z-10",children:e.jsx("div",{className:"grid sm:grid-cols-3 gap-4",children:[{icon:"👥",value:"1 000+",label:"пользователей в неделю"},{icon:"📊",value:"10 000",label:"строк за один экспорт"},{icon:"⚡",value:"< 1 мин",label:"от установки до результата"}].map(t=>e.jsxs("div",{className:"bg-card border border-border rounded-2xl p-6 shadow-soft",children:[e.jsx("div",{className:"text-3xl",children:t.icon}),e.jsx("div",{className:"mt-3 text-3xl font-bold font-display",children:t.value}),e.jsx("div",{className:"text-sm text-muted-foreground",children:t.label})]},t.label))})}),e.jsxs("section",{className:"max-w-6xl mx-auto px-6 py-24",children:[e.jsxs("div",{className:"text-center max-w-2xl mx-auto",children:[e.jsx("div",{className:"inline-flex px-3 py-1 rounded-full bg-accent text-accent-foreground text-xs font-semibold",children:"🔥 Что внутри"}),e.jsx("h2",{className:"mt-4 text-4xl sm:text-5xl font-bold",children:"Всё, что нужно для сбора базы"}),e.jsx("p",{className:"mt-4 text-muted-foreground",children:"Контакты, координаты, соцсети — всё, что есть в карточке организации, окажется в одной таблице."})]}),e.jsx("div",{className:"mt-12 grid md:grid-cols-3 gap-5",children:[{icon:"📞",title:"Телефоны и WhatsApp",desc:"Все контактные номера и мессенджеры из карточки."},{icon:"🌐",title:"Сайты и соцсети",desc:"Официальные сайты, Telegram, ВК и прочие ссылки."},{icon:"📍",title:"Адреса и координаты",desc:"Точный адрес и широта/долгота для CRM и карт."},{icon:"⭐",title:"Рейтинг и отзывы",desc:"Средняя оценка и количество отзывов компании."},{icon:"📊",title:"Экспорт в XLSX",desc:"Готовая Excel-таблица — открывайте и работайте."},{icon:"🛡️",title:"Без капчи",desc:"Парсинг идёт через ваш браузер — никаких блокировок."}].map(t=>e.jsxs("div",{className:"group rounded-2xl border border-border bg-card p-6 hover:shadow-soft hover:-translate-y-0.5 transition",children:[e.jsx("div",{className:"w-12 h-12 rounded-xl bg-gradient-lime grid place-items-center text-2xl shadow-soft",children:t.icon}),e.jsx("h3",{className:"mt-4 text-lg font-semibold",children:t.title}),e.jsx("p",{className:"mt-2 text-sm text-muted-foreground",children:t.desc})]},t.title))}),e.jsx("div",{className:"mt-12 text-center",children:e.jsx(s,{to:"/features",className:"text-primary font-semibold hover:underline",children:"Все возможности →"})})]}),e.jsx("section",{className:"max-w-6xl mx-auto px-6 pb-24",children:e.jsxs("div",{className:"rounded-3xl bg-gradient-brand p-10 sm:p-16 text-center text-white shadow-glow",children:[e.jsx("h2",{className:"text-3xl sm:text-5xl font-bold",children:"Готовы собрать первую базу? 🎯"}),e.jsx("p",{className:"mt-4 text-white/90 max-w-xl mx-auto",children:"Установите расширение из Chrome Web Store и сделайте первый экспорт прямо сейчас. Демо доступ — бесплатно."}),e.jsx("a",{href:r,target:"_blank",rel:"noreferrer",className:"mt-8 inline-flex items-center gap-2 px-7 py-4 rounded-2xl bg-white text-foreground font-semibold hover:scale-105 transition",children:"🚀 Попробовать бесплатно"})]})})]})}export{n as component};
+import { j as e } from "./index-D2KIWI07.js";
+import { a as n } from "./SiteLayout-BemxWIIb.js";
+import { component as t } from "./_site.features-BH92teYD.js";
+import { component as r } from "./_site.how-it-works-B2e4zoUg.js";
+import { component as s } from "./_site.pricing--uJjNlo-.js";
+import { component as o } from "./_site.faq-EC_Au_-A.js";
+import { component as i } from "./_site.contact-NSdg--Q3.js";
+
+function c() {
+  return e.jsxs(e.Fragment, {
+    children: [
+      e.jsx("section", {
+        id: "home",
+        className: "relative overflow-hidden bg-gradient-hero",
+        children: e.jsxs("div", {
+          className: "relative max-w-5xl mx-auto px-6 pt-24 pb-20 text-center",
+          children: [
+            e.jsx("div", {
+              className:
+                "inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-white/70 backdrop-blur border border-white/80 text-xs font-semibold text-foreground/80 shadow-soft",
+              children: "🧭 Единый лендинг: все разделы на одной странице",
+            }),
+            e.jsxs("h1", {
+              className: "mt-6 text-5xl sm:text-6xl md:text-7xl font-extrabold tracking-tight",
+              children: [
+                "Ya Maps Parser",
+                e.jsx("br", {}),
+                e.jsx("span", { className: "text-gradient-brand", children: "весь контент в одном месте" }),
+              ],
+            }),
+            e.jsx("p", {
+              className: "mt-6 text-lg sm:text-xl text-muted-foreground max-w-2xl mx-auto",
+              children:
+                "Прокручивайте страницу: возможности, как работает, тарифы, FAQ и контакты теперь идут единым лендингом.",
+            }),
+            e.jsxs("div", {
+              className: "mt-10 flex flex-wrap items-center justify-center gap-4",
+              children: [
+                e.jsx("a", {
+                  href: n,
+                  target: "_blank",
+                  rel: "noreferrer",
+                  className:
+                    "inline-flex items-center gap-2 px-7 py-4 rounded-2xl bg-gradient-brand text-white text-base font-semibold shadow-glow hover:scale-[1.03] transition",
+                  children: "🚀 Попробовать бесплатно",
+                }),
+                e.jsx("a", {
+                  href: "/#pricing",
+                  className:
+                    "inline-flex items-center gap-2 px-7 py-4 rounded-2xl bg-white border border-border text-base font-semibold hover:bg-muted transition",
+                  children: "💎 К тарифам",
+                }),
+              ],
+            }),
+          ],
+        }),
+      }),
+      e.jsx("section", { id: "features", children: e.jsx(t, {}) }),
+      e.jsx("section", { id: "how-it-works", children: e.jsx(r, {}) }),
+      e.jsx("section", { id: "pricing", children: e.jsx(s, {}) }),
+      e.jsx("section", { id: "faq", children: e.jsx(o, {}) }),
+      e.jsx("section", { id: "contact", children: e.jsx(i, {}) }),
+    ],
+  });
+}
+
+export { c as component };
